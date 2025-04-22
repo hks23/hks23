@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Hi, I'm Harsh, a passionate coder and web developer. Skilled in JavaScript, Python, React, Node.js, EJS, MongoDB.</h3>
+<h3 align="center">Hi, I'm Harsh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hks23&label=Profile%20views&color=0e75b6&style=flat" alt="hks23" /> </p>
 
